@@ -1,0 +1,34 @@
+#animaTittle {
+  -webkit-animation-duration: 1.5s;
+  -webkit-animation-delay: 0.5s;
+}
+
+#animaTittle1s {
+  -webkit-animation-duration: 1.5s;
+  -webkit-animation-delay: 0.5s;
+}
+
+#animaText1s {
+  -webkit-animation-duration: 1.2s;
+  -webkit-animation-delay: 0.7s;
+}
+
+#animaText2s {
+  -webkit-animation-duration: 1.3s;
+  -webkit-animation-delay: 0.7s;
+}
+
+#animaText3s {
+  -webkit-animation-duration: 1.3s;
+  -webkit-animation-delay: 0.7s;
+}
+
+#animaText4s {
+  -webkit-animation-duration: 1.4s;
+  -webkit-animation-delay: 0.7s;
+}
+
+#animaImage {
+  -webkit-animation-duration: 1.5s;
+  -webkit-animation-delay: 1.3s;
+}
